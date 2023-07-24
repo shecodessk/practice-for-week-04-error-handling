@@ -1,4 +1,4 @@
-/*// 1.
+// 1.
 function sum(array) {
 
   if(!Array.isArray(array)) {
@@ -43,7 +43,7 @@ try{
     console.error(`TypeError ${error.message}`)
 
  }
-*/
+
 
 // 3.
 function greet(greeting) {
